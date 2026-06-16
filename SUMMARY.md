@@ -11,7 +11,6 @@
   * [Power Gaming (PG)](_conceitos_rp/08_powergaming.md)
   * [Cop Bait](_conceitos_rp/cop-bait.md)
   * [Dark Roleplay](_conceitos_rp/10_dark_rp.md)
-  * [Anti Roleplay](_conceitos_rp/09_anti_roleplay.md)
   * [Regras de Pichação](_conceitos_rp/11_regras_de_pichacao.md)
   * [Regras de Venda de itens](_conceitos_rp/12_regras_de_venda_de_itens.md)
 * [\_diretrizes\_gerais](_diretrizes_gerais/README.md)

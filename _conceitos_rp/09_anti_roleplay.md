@@ -1,6 +1,0 @@
----
-icon: accessible-icon
----
-
-# Anti Roleplay
-
