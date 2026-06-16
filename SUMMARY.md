@@ -2,7 +2,7 @@
 
 * [CONCEITOS RP](README.md)
   * [Metagaming](_conceitos_rp/04_metagaming.md)
-  * [05\_rdm\_vdm](_conceitos_rp/05_rdm_vdm.md)
+  * [rdm vdm](_conceitos_rp/05_rdm_vdm.md)
   * [06\_combat\_logging](_conceitos_rp/06_combat_logging.md)
   * [07\_amor\_a\_vida](_conceitos_rp/07_amor_a_vida.md)
   * [08\_powergaming](_conceitos_rp/08_powergaming.md)
