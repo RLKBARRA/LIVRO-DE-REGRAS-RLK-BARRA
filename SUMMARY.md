@@ -41,4 +41,4 @@
     * [Sem Refém](_regras_de_acoes/banco-central/sem-refem.md)
   * [Nióbio](_regras_de_acoes/niobio.md)
   * [Assalto a Players](_regras_de_acoes/assalto-a-players.md)
-  * [\_regras\_de\_acoes\_ilha](_regras_de_acoes/_regras_de_acoes_ilha.md)
+  * [REGRAS AÇÕES DA ILHA](_regras_de_acoes/_regras_de_acoes_ilha.md)
