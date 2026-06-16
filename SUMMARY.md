@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Diretrizes Gerais](README.md)
+* [LIVRO DE REGRAS](README.md)
+* [Diretrizes Gerais](<README (2).md>)
   * [Regras Do Discord](_diretrizes_gerais/01_regras_discord.md)
   * [Regras Gerais](_diretrizes_gerais/02_regras_gerais.md)
   * [Safezones](_diretrizes_gerais/03_safe_zone.md)
