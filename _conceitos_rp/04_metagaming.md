@@ -1,0 +1,6 @@
+---
+icon: thumbtack-angle
+---
+
+# Metagaming
+
