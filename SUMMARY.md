@@ -8,7 +8,7 @@
   * [powergaming](_conceitos_rp/08_powergaming.md)
   * [anti roleplay](_conceitos_rp/09_anti_roleplay.md)
   * [dark rp](_conceitos_rp/10_dark_rp.md)
-  * [11\_regras\_de\_pichacao](_conceitos_rp/11_regras_de_pichacao.md)
+  * [regras de pichacao](_conceitos_rp/11_regras_de_pichacao.md)
   * [12\_regras\_de\_venda\_de\_itens](_conceitos_rp/12_regras_de_venda_de_itens.md)
 * [\_diretrizes\_gerais](_diretrizes_gerais/README.md)
   * [01\_regras\_discord](_diretrizes_gerais/01_regras_discord.md)
