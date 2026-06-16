@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: shield-keyhole
 layout:
   width: default
