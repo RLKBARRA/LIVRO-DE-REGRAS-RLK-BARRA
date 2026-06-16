@@ -1,0 +1,6 @@
+---
+icon: face-swear
+---
+
+# Flaming
+

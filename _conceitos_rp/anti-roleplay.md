@@ -1,5 +1,5 @@
 ---
-icon: accessible-icon
+icon: virus-slash
 ---
 
 # Anti Roleplay

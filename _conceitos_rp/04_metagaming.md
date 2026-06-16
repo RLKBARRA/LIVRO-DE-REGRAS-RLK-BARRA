@@ -1,5 +1,5 @@
 ---
-icon: thumbtack-angle
+icon: mobile-retro
 ---
 
 # Metagaming
