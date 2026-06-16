@@ -12,7 +12,3 @@ icon: book-blank
 #### **(O descumprimento das regras descritas neste documento pode gerar BANIMENTO INDETERMINADO. Atente-se a todas elas).**
 {% endhint %}
 
-> Observações
-
-1. **Tentar burlar as regras gera punição.**
-2. **Todos devem seguir as regras da cidade.**
