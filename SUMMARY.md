@@ -1,6 +1,6 @@
 # Table of contents
 
-* [\_conceitos\_rp](README.md)
+* [CONCEITOS RP](README.md)
   * [04\_metagaming](_conceitos_rp/04_metagaming.md)
   * [05\_rdm\_vdm](_conceitos_rp/05_rdm_vdm.md)
   * [06\_combat\_logging](_conceitos_rp/06_combat_logging.md)
