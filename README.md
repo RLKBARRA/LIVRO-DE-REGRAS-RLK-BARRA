@@ -1,5 +1,5 @@
 ---
-icon: '1'
+icon: book
 ---
 
 # CONCEITOS RP
