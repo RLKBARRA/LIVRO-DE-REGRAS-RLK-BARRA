@@ -4,7 +4,7 @@
   * [Metagaming](_conceitos_rp/04_metagaming.md)
   * [rdm vdm](_conceitos_rp/05_rdm_vdm.md)
   * [combat logging](_conceitos_rp/06_combat_logging.md)
-  * [amor a vida](_conceitos_rp/07_amor_a_vida.md)
+  * [amor a vidaa](_conceitos_rp/07_amor_a_vida.md)
   * [powergaming](_conceitos_rp/08_powergaming.md)
   * [anti roleplay](_conceitos_rp/09_anti_roleplay.md)
   * [dark rp](_conceitos_rp/10_dark_rp.md)
