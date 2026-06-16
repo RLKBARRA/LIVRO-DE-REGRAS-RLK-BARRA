@@ -9,7 +9,7 @@
   * [anti roleplay](_conceitos_rp/09_anti_roleplay.md)
   * [dark rp](_conceitos_rp/10_dark_rp.md)
   * [regras de pichacao](_conceitos_rp/11_regras_de_pichacao.md)
-  * [12\_regras\_de\_venda\_de\_itens](_conceitos_rp/12_regras_de_venda_de_itens.md)
+  * [regras\_de\_venda\_de\_itens](_conceitos_rp/12_regras_de_venda_de_itens.md)
 * [\_diretrizes\_gerais](_diretrizes_gerais/README.md)
   * [01\_regras\_discord](_diretrizes_gerais/01_regras_discord.md)
   * [02\_regras\_gerais](_diretrizes_gerais/02_regras_gerais.md)
