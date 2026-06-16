@@ -1,6 +1,6 @@
 ---
-icon: book
+icon: shield-keyhole
 ---
 
-# CONCEITOS RP
+# Diretrizes Gerais
 

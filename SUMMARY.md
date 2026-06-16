@@ -1,6 +1,10 @@
 # Table of contents
 
-* [CONCEITOS RP](README.md)
+* [Diretrizes Gerais](README.md)
+  * [Regras Do Discord](_diretrizes_gerais/01_regras_discord.md)
+  * [Regras Gerais](_diretrizes_gerais/02_regras_gerais.md)
+  * [Safezones](_diretrizes_gerais/03_safe_zone.md)
+* [CONCEITOS RP](<README (1).md>)
   * [Metagaming](_conceitos_rp/04_metagaming.md)
   * [Random Deathmatch (RDM)](_conceitos_rp/05_rdm_vdm.md)
   * [Vehicle Deathmatch (VDM)](_conceitos_rp/vehicle-deathmatch-vdm.md)
@@ -13,10 +17,6 @@
   * [Dark Roleplay](_conceitos_rp/10_dark_rp.md)
   * [Regras de Pichação](_conceitos_rp/11_regras_de_pichacao.md)
   * [Regras de Venda de itens](_conceitos_rp/12_regras_de_venda_de_itens.md)
-* [\_diretrizes\_gerais](_diretrizes_gerais/README.md)
-  * [01\_regras\_discord](_diretrizes_gerais/01_regras_discord.md)
-  * [02\_regras\_gerais](_diretrizes_gerais/02_regras_gerais.md)
-  * [03\_safe\_zone](_diretrizes_gerais/03_safe_zone.md)
 * [\_faccoes\_e\_corporacoes](_faccoes_e_corporacoes/README.md)
   * [13\_regras\_faccoes\_e\_criacao\_de\_conteudos](_faccoes_e_corporacoes/13_regras_faccoes_e_criacao_de_conteudos.md)
   * [14\_regras\_negociacao](_faccoes_e_corporacoes/14_regras_negociacao.md)
