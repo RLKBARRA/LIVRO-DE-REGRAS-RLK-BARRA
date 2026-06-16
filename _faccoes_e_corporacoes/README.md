@@ -1,2 +1,6 @@
-# \_faccoes\_e\_corporacoes
+---
+icon: people-group
+---
+
+# Facções e Corporações
 
